@@ -1,4 +1,4 @@
-package com.javanibble.springboot.examples.simpleconsoleapplication;
+package com.javanibble.springboot.examples.console;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

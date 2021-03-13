@@ -1,4 +1,4 @@
-package com.javanibble.springboot.examples.simpleconsoleapplication;
+package com.javanibble.springboot.examples.console;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
