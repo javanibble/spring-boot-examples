@@ -12,9 +12,7 @@ public class SimpleConsoleApplication implements CommandLineRunner {
 	private static Logger LOG = LoggerFactory.getLogger(SimpleConsoleApplication.class);
 
 	public static void main(String[] args) {
-		LOG.info("Spring Application Start");
 		SpringApplication.run(SimpleConsoleApplication.class, args);
-		LOG.info("Spring Application Complete");
 	}
 
 	@Override
